@@ -6,7 +6,7 @@ Code to simulate Homodyne Detection.
 - A streamlit application for the same (https://simulate-homodyne-data.streamlit.app/).
 - One can simulate different quantum states here, and also download the simulated homodyne data for different states as a csv file for vvisualization or reconstruction purposes.
 
-![1](blob/imgs/Screenshot 2024-01-04 055824.png)
+![Website 1](imgs/Screenshot 2024-01-04 055824.png)
 ![2](imgs/Screenshot 2024-01-04 060145.png)
 ![3](imgs/Screenshot 2024-01-04 060227.png)
 ![4](imgs/Screenshot 2024-01-04 060244.png)
